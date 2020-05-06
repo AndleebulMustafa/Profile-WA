@@ -1,0 +1,13 @@
+body{background-size: cover; height: 800px;
+    background-repeat: unset;background-image: url(./image/1.jpg);
+    background-color: black;}
+    h1{color: whitesmoke; font-style: bold; font-size: 50px;}
+    h2{ color: lightgray;  font-style: bold; font-size: 30px;}
+    h3{text-align: right;}
+dd{ border: 1px solid black; 
+    border-radius: 5px;
+    display: inline;
+    width: 100px;
+    background-color: gray;
+}    
+    

@@ -1,0 +1,16 @@
+header{ background-color: white;}
+h1 {    color: blue;text-decoration: underline}
+#main-div { text-align: left;
+      background-color: blue;
+      border: black;
+      background-color: ;
+      border-bottom: 1px solid;
+      margin: 10px;
+      padding-bottom: 10px;
+      width: 800px;}
+.a1 {width: 30vw;}
+title{float: left;width: 100px;text-align: right;
+padding-right: 10px;}
+radio-buttons label{ float: none;}
+.form-Btns{    text-align: center;}
+ul{text-align: left ;vertical-align: top;}

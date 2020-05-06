@@ -1,0 +1,13 @@
+body{background-color: whitesmoke; 
+    margin: 0;
+}
+td{
+    width: 5vw;
+    border: 1px solid black;
+    text-align: center;
+}
+.noBorder{border: none;}
+.Heading1{background-color: yellow;
+padding: 8px;
+font-size: 5vw;}
+body{width: auto;height: auto;}
